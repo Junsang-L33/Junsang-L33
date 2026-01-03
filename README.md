@@ -1,6 +1,6 @@
 ## Languages
-![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=blue) 
-![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C&logoColor=blue)
+<img alt="C" src ="https://img.shields.io/badge/C-#A8B9CC.svg?&style=flat-square&logo=(넣고자 하는것의 이름)&logoColor=white"/>
+<img alt="C++" src ="https://img.shields.io/badge/C++-#00599C.svg?&style=flat-square&logo=(넣고자 하는것의 이름)&logoColor=white"/>
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/>
 
 ## BOJ RANK
